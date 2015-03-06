@@ -43,3 +43,7 @@ body {
 .white{
     color: #ffffff;
 }
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    border-color: none;
+}
