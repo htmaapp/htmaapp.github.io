@@ -1,6 +1,9 @@
 ### How to Make an App
 www.ctyionline.net
 
+![logo](img/slides/s01img001.png "CTYI Logo")
+
+
 ### Contents
 
  - Welcome
@@ -18,7 +21,7 @@ Take a quick look through this guide to set your computer up for all your future
 We’ll be using Google Chrome for the course, so it will probably make your life easier if you do too. 
 If you want to stick with your current browser please make sure you have the latest version by visiting:
 [](http://www.whatsmybrowser.org/)
-
+![The Chrome Browser](img/slides/s01img002.png "Chrome Browser")
 
 ###Chrome + Windows
 
@@ -30,6 +33,8 @@ If you want to stick with your current browser please make sure you have the lat
 ### Chrome + Windows: 
 
 2) Download
+
+![Click "Download Chrome"](img/slides/s01img003.png "Download Chrome")
 
 ### Chrome + Windows: 
 
@@ -53,17 +58,26 @@ One of the easiest ways to get a Google Apps account is by setting up a Gmail ad
 
 Enter your details
 
+![Sign up for Google Apps](img/slides/s01img004.png "Sign up for a Google Account")
+
 ### Hangouts
-Hangouts
-Sharing your Screen
-Using Chat
-Hangouts Etiquette
+ - Hangouts
+ - Sharing your Screen
+ - Using Chat
+ - Hangouts Etiquette
 
 ### About Hangouts
 
-Sharing Your Screen
+### Sharing Your Screen
 
-Using Chat
+Click the Green Screen with the white arrow to share your screen with everyone else.
 
-Hangouts Etiquette
+![Click the Green Screen with the white arrow](img/slides/s01img005.png "Click the Green Screen with the white arrow")
+
+### Using Chat
+
+### Hangouts Etiquette
+
 If you’re not asking a question please click the “mute” button to turn your microphone off.
+
+![Mute](img/slides/s01img006.png "Don't forget to mute when you're not speaking!")
