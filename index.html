@@ -31,34 +31,33 @@
 
     <!-- font awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <!-- material design colours -->
-    <!-- production link
-    https://cdn.rawgit.com/domhnallohanlon/colours/master/colours.css
-     -->
-    <link rel="stylesheet" type="text/css" href="https://rawgit.com/domhnallohanlon/colours/master/colours.css">
     
-    <!-- local copy
-    <link rel="stylesheet" href="../colours/colours.css"> -->
+    <!-- my material design colours -->
+    <link rel="stylesheet" href="//cdn.rawgit.com/domhnallohanlon/css/master/colours.css" type="text/css">
+    
+    <!-- make navbar button toggle between burger menu and X -->
+    <link rel="stylesheet" href="//cdn.rawgit.com/domhnallohanlon/css/master/navstyle.css">
+
 </head>
 <body>
 <div class="navbar navbar-default navbar-fixed-top"> 
     <div class="navbar-header light-greenBG">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
         </button>
-        <a class="navbar-brand" href="https://domhnallohanlon.github.io">Domhnall's Projects</a>
+        <a class="navbar-brand" href="https://howtomakeanapp.tv">Domhnall's Projects</a>
     </div>
     <div class="navbar-collapse collapse navbar-responsive-collapse light-greenBG">
         <ul class="nav navbar-nav">
-            <li><a href="https://twitter.com/domhnallohanlon" target="_blank">
+            <li><a href="https://twitter.com/htmaapp" target="_blank">
               <i class="fa fa-twitter"></i>
               Twitter</a></li>
-            <li><a href="https://ie.linkedin.com/in/domhnallohanlon" target="_blank">
-              <i class="fa fa-linkedin-square"></i>
-              LinkedIn</a></li>
-            <li><a href="https://github.com/domhnallohanlon" target="_blank">
+            <li><a href="https://fb.com/htmaapp" target="_blank">
+              <i class="fa fa-facebook"></i>
+              Facebook</a></li>
+            <li><a href="https://github.com/htmaapp" target="_blank">
               <i class="fa fa-github"></i>
               Github</a></li>  
         </ul>
@@ -67,7 +66,55 @@
     </div>
 </div> <!-- navbar -->
 <div class="container">
-        <div class="jumbotron">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="panel">
+        <div class="panel-heading light-greenBG">
+          <h3 class="panel-title white">Chapter 0: Setting Up</h3>
+        </div>
+        <div class="panel-body">
+          <div class="media">
+            <a class="pull-left" href="02_emulator.html" target="_blank">
+              <span class="fa-stack fa-3x black">
+                <i class="fa fa-stack-2x fa-circle"></i>
+                <i class="fa fa-stack-1x fa-android fa-inverse"></i>
+              </span>
+            </a>
+              <div class="media-body">
+                <h4 class="media-heading">What You'll Be Doing</h4>
+                <p>
+                Before you can build any apps you need to get your computer set up for the job at hand. This set of slides walks you through setting up App Inventor on your Windows of Mac <br> <a href="02_emulator.html" target="_blank" class="btn light-greenBG pull-right">Learn More!</a>               
+                </p>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="panel">
+        <div class="panel-heading light-greenBG">
+          <h3 class="panel-title white">Chapter 1: Hello World</h3>
+        </div>
+        <div class="panel-body">
+          <div class="media">
+            <a class="pull-left" href="#!03hello_world.html" target="_blank">
+              <span class="fa-stack fa-3x black">
+                <i class="fa fa-stack-2x fa-circle"></i>
+                <i class="fa fa-stack-1x fa-android fa-inverse"></i>
+              </span>
+            </a>
+              <div class="media-body">
+                <h4 class="media-heading">What You'll Be Doing</h4>
+                <p>
+                Now that your computer is ready to go it's time to familiarise yourself with the user interface of App Inventor. Thankfully it's very user-friendly so you should get the hang of it in no time.<a href="#!03hello_world.html" target="_blank" class="btn light-greenBG pull-right">Learn More!</a> </p>
+              </div>
+          </div>
+        </div>
+      </div>      
+    </div>
+  </div>
+
+<!--         <div class="jumbotron">
             <h1>
                 <span class="fa-stack">
                     <i class="fa fa-stack-2x fa-circle"></i>
@@ -76,13 +123,13 @@
             </h1>
                     <p>Setting up your Computer for the course</p>
                     <p><a href="00Instructions.html" target="_blank" class="btn btn-lg btn-responsive btn-material-light-green">Let's Go!</a></p>
-        </div>
+        </div> -->
 
 
 </div>
 
-
-    <!-- jQuery -->
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>  
+    <!-- Latest compiled and minified JS -->
+    <script src="//code.jquery.com/jquery.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 </body>
 </html>    
