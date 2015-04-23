@@ -1,3 +1,1 @@
-[
-{"name":"Pong","subtitle":"the classic game", "description":"table tennis for the digital age", "thumbnail":"thumb.png","screenshot":"screenshot.png", "zip":"Pong.aia"}
-]
+[{"name":"SnappyChat","subtitle":"Chat with Snaps!","description":"A simple clone of the popular messaging app. Lots of functionality missing, but provides a decent scaffolding.","thumbnail":"thumb.png","screenshot":"screenshot.png","zip":"painting.aia"},]
