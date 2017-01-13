@@ -4,4 +4,5 @@
 	{"name":"FunWithFarads","subtitle":"Electronics Games","description":"Learn about Ohm's law, Greek letters and much more with this collection of electronics-themed mini-games.","link":"https://play.google.com/store/apps/details?id=com.thunkable.android.domhnall_ohanlon.electronics_games","thumbnail":"thumb.png","screenshot":"ss.png","zip":"FunWithFarads.aia"},
 	{"name":"PollingTextbox","subtitle":"Updating textboxes automatically","description":"This app uses the clock to continuously poll textboxes and update the contents of one based on the other.","link":"https://domhnallohanlon.com","thumbnail":"thumb.png","screenshot":"ss.png","zip":"PollingTextbox.aia"},
 	{"name":"rpsls","subtitle":"Rock Paper Scissors Lizard Spock","description":"As seen on TV!","link":"https://domhnallohanlon.com","thumbnail":"thumb.png","screenshot":"ss1.png","zip":"rpsls.aia"},
+	{"name":"toggle_arrangements","subtitle":"Switch screens with only one screen","description":"Thunkable demo app","link":"https://domhnallohanlon.com","thumbnail":"thumb.png","screenshot":"ss1.png","zip":"toggle_arrangements.aia"},
 ]
