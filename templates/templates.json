@@ -5,4 +5,5 @@
 	{"name":"PollingTextbox","subtitle":"Updating textboxes automatically","description":"This app uses the clock to continuously poll textboxes and update the contents of one based on the other.","link":"https://domhnallohanlon.com","thumbnail":"thumb.png","screenshot":"ss.png","zip":"PollingTextbox.aia"},
 	{"name":"rpsls","subtitle":"Rock Paper Scissors Lizard Spock","description":"As seen on TV!","link":"https://domhnallohanlon.com","thumbnail":"thumb.png","screenshot":"ss1.png","zip":"rpsls.aia"},
 	{"name":"toggle_arrangements","subtitle":"Switch screens with only one screen","description":"Thunkable demo app","link":"https://domhnallohanlon.com","thumbnail":"thumb.png","screenshot":"ss1.png","zip":"toggle_arrangements.aia"},
+	{"name":"ThunkableFM","subtitle":"Streaming and MP3 music player","description":"Thunkable demo app","link":"https://domhnallohanlon.com","thumbnail":"thumb.png","screenshot":"ss1.png","zip":"ThunkableFM.aia"},
 ]
